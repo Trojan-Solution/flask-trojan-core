@@ -1,1 +1,1 @@
-# flask-trojan-core
+# Flask Trojan Core
